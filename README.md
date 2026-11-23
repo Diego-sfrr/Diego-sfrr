@@ -22,6 +22,7 @@ Estudante de **Sistemas de Informação** na **UNEMAT** (Sinop - MT), com experi
 
 | Projeto | O que é | Stack |
 |---|---|---|
+| [sovereign-of-ashes](https://github.com/Diego-sfrr/sovereign-of-ashes) | Jogo roguelike deckbuilder em Unity, feito com IA a partir da minha ideia e design | Unity · C# · IA |
 | [copa-2026-formulario](https://github.com/Diego-sfrr/copa-2026-formulario) · [ver online](https://diego-sfrr.github.io/copa-2026-formulario/) | Formulário temático com validação, Regex e verificação de CPF | HTML · CSS · JS |
 | [gerador-relatorio-pdf](https://github.com/Diego-sfrr/gerador-relatorio-pdf) | Lê notas, calcula médias e gera relatório em PDF com gráfico | Python · fpdf2 · matplotlib |
 | [hotel-manager-python](https://github.com/Diego-sfrr/hotel-manager-python) | Sistema de reservas de hotel no terminal com arrays paralelos | Python |
