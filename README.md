@@ -28,3 +28,7 @@ Estudante de **Sistemas de Informação** na **UNEMAT** (Sinop - MT), com experi
 | [hotel-manager-python](https://github.com/Diego-sfrr/hotel-manager-python) | Sistema de reservas de hotel no terminal com arrays paralelos | Python |
 | [landing-page-devtech](https://github.com/Diego-sfrr/landing-page-devtech) | Landing page responsiva de empresa de tecnologia | HTML · CSS |
 | [exercicios-python](https://github.com/Diego-sfrr/exercicios-python) | Exercícios de lógica de programação | Python |
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-sfrr/)
