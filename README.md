@@ -26,7 +26,7 @@ Estudante de **Sistemas de Informação** na **UNEMAT** (Sinop - MT), com experi
 | [copa-2026-formulario](https://github.com/Diego-sfrr/copa-2026-formulario) · [ver online](https://diego-sfrr.github.io/copa-2026-formulario/) | Formulário temático com validação, Regex e verificação de CPF | HTML · CSS · JS |
 | [gerador-relatorio-pdf](https://github.com/Diego-sfrr/gerador-relatorio-pdf) | Lê notas, calcula médias e gera relatório em PDF com gráfico | Python · fpdf2 · matplotlib |
 | [hotel-manager-python](https://github.com/Diego-sfrr/hotel-manager-python) | Sistema de reservas de hotel no terminal com arrays paralelos | Python |
-| [landing-page-devtech](https://github.com/Diego-sfrr/landing-page-devtech) | Landing page responsiva de empresa de tecnologia | HTML · CSS |
+| [landing-page-devtech](https://github.com/Diego-sfrr/landing-page-devtech) · [ver online](https://diego-sfrr.github.io/landing-page-devtech/) | Landing page responsiva de empresa de tecnologia | HTML · CSS |
 | [exercicios-python](https://github.com/Diego-sfrr/exercicios-python) | Exercícios de lógica de programação | Python |
 
 ## 📫 Contato
