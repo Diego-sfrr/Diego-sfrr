@@ -4,8 +4,8 @@ Estudante de **Sistemas de Informação** na **UNEMAT** (Sinop - MT), com experi
 
 - 🎓 Sistemas de Informação, UNEMAT (cursando)
 - 🛠️ Suporte técnico: Windows, pacote Office, manutenção de computadores, roteadores/ONUs, IP e redirecionamento de portas
-- 💻 Programando em Python, JavaScript, HTML/CSS e C# (Unity)
-- 🌱 Aprendendo agora: banco de dados (MySQL) e desenvolvimento de jogos
+- 💻 Programando em Python, JavaScript e HTML/CSS
+- 🌱 Aprendendo agora: banco de dados (MySQL) e desenvolvimento assistido por IA
 - 🔎 Procurando: **estágio ou vaga em TI** (suporte, infraestrutura ou desenvolvimento)
 
 ## 🧰 Tecnologias
@@ -14,9 +14,7 @@ Estudante de **Sistemas de Informação** na **UNEMAT** (Sinop - MT), com experi
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
